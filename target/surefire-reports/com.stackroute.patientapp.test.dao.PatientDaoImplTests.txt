@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.patientapp.test.dao.PatientDaoImplTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.stackroute.patientapp.test.dao.PatientDaoImplTests
+com.stackroute.patientapp.test.dao.PatientDaoImplTests  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.stackroute.patientapp.test.dao.PatientDaoImplTests.beforeAll(PatientDaoImplTests.java:28)
+

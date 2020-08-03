@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.stackroute.patientapp.test.util.ConnectionUtilityTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.142 s <<< FAILURE! - in com.stackroute.patientapp.test.util.ConnectionUtilityTests
+givenConnectionStringThenReturnMongoCollection  Time elapsed: 0.138 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.stackroute.patientapp.test.util.ConnectionUtilityTests.givenConnectionStringThenReturnMongoCollection(ConnectionUtilityTests.java:18)
+
